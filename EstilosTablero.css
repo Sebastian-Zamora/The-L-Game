@@ -1,0 +1,21 @@
+#tablero{
+			width: 600px;
+			height: 600px;
+			background-image: url("images/fondotablero.jpg");
+			background-color: #000;
+			background-size: contain;
+
+		}
+		.casilla{
+			width: 100px;
+			height: 100px;
+			float: left;
+			font-size: 4em;
+			text-align: center;			
+		}
+		.tenue{			
+			background-color: #efefef;							
+		}
+		.opaca{
+			background-color: #888;			
+		}		
